@@ -1,9 +1,11 @@
 {
   "squadName" : "Super Hero Squad",         
   "homeTown" : "Metro City",
-  "formed" : 2016,                                          //json acronimo di javascript objact notation. E un file di testo
+  "formed" : 2016,                                          
   "secretBase" : "Super tower",
   "active" : true,
+  "creator" : "Mihael Slipcevic",
+  "update" : 2024,
 
 
   "members" : [
